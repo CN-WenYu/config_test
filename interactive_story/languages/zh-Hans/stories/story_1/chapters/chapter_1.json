@@ -62,19 +62,16 @@
     {
       "type": "choice",
       "content": "你会如何回应?",
-      "is_ai_generated": false,
+      "is_ai_generated": true,
       "choices": [
         {
-          "content": "选择相信 Sophia，安心留在医院休养",
-          "next_chapter_url": "chapters/chapter_002a.json"
+          "content": "选择相信 Sophia，安心留在医院休养"
         },
         {
-          "content": "对 Sophia 说的话表示怀疑，要求她说出真相",
-          "next_chapter_url": "chapters/chapter_002b.json"
+          "content": "对 Sophia 说的话表示怀疑，要求她说出真相"
         },
         {
-          "content": "偷偷离开医院，独自探寻自己的身份之谜",
-          "next_chapter_url": "chapters/chapter_002c.json"
+          "content": "偷偷离开医院，独自探寻自己的身份之谜"
         }
       ]
     }
