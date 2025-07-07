@@ -62,19 +62,16 @@
     {
       "type": "choice",
       "content": "How will you respond?",
-      "is_ai_generated": false,
+      "is_ai_generated": true,
       "choices": [
         {
-          "content": "Choose to trust Sophia and rest peacefully in the hospital",
-          "next_chapter_url": "chapters/chapter_002a.json"
+          "content": "Choose to trust Sophia and rest peacefully in the hospital"
         },
         {
-          "content": "Express doubt about Sophia's words and demand she tell the truth immediately",
-          "next_chapter_url": "chapters/chapter_002b.json"
+          "content": "Express doubt about Sophia's words and demand she tell the truth immediately"
         },
         {
-          "content": "Secretly leave the hospital and explore your identity mystery alone",
-          "next_chapter_url": "chapters/chapter_002c.json"
+          "content": "Secretly leave the hospital and explore your identity mystery alone"
         }
       ]
     }
